@@ -1,2 +1,3 @@
 # gitlab
-this is the repositary to demostret github cloning
+this is the repository to demostrate github cloning
+Now changes in comment
