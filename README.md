@@ -1,3 +1,3 @@
 # gitlab
 this is the repository to demostrate github cloning
-Now changes in comment
+Now changes in comment.
