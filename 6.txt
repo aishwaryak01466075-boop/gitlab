@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 creating New file
+=======
+creating file
+>>>>>>> feature-branch
